@@ -26,4 +26,4 @@ To set your favorite LED color manually, use the
 
 
 ## Schematic
-![The following schematic shows how the sound sensor and LED strip are connected to the microcontroller:](/Images/schematic.png)
+![The following schematic shows how the sound sensor and LED strip are connected to the microcontroller:](/Image/schematic.png)
