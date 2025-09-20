@@ -1,5 +1,7 @@
 *.uvgui*
 *.uvopt
 *.uvguix
+*.txt
+*.exe
 Objects/
 Listings/

@@ -11,7 +11,7 @@ int main()
         cin.get(buff, 9);
         for(int j = 0; j < 8; j++)
         {
-            RGB[i][j] = (int)buff[j] - (int)'0';
+            RGB[i][j] = (int)buff[j] - (int)'0'; // Convert char to int
         }
     }
     ofstream file;
